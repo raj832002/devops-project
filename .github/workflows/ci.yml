@@ -21,4 +21,4 @@ jobs:
         run: npm install
 
       - name: Check app file
-  	run: node -e "console.log('App is valid')"
+        run: node -e "console.log('App is valid')"
